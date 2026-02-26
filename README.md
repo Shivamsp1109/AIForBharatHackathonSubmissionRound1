@@ -36,9 +36,14 @@ npm start
 ```
 Open http://localhost:3000
 
-## Colab training (optional)
-See `notebooks/colab_training.md` to generate `forecast.csv` in Colab and place it into `data/processed/`.
-Official forecast path is ARIMA from Colab. If ARIMA output is not available, the fallback is moving average (`scripts/simple_forecast.py`).
+## ARIMA training (optional, Colab/local)
+Use `scripts/train_forecast_arima.py` to generate `forecast.csv` from `sales_daily.csv`.
+Official forecast path is ARIMA. If ARIMA output is not available, fallback is moving average (`scripts/simple_forecast.py`).
+
+Example:
+```
+python scripts/train_forecast_arima.py --input data/processed/sales_daily.csv --output data/processed/forecast.csv --max-products 50
+```
 
 ## Submission requirements
 - `requirements.md` and `design.md` must be generated via Kiro and placed in the repo root.
@@ -49,5 +54,4 @@ Official forecast path is ARIMA from Colab. If ARIMA output is not available, th
 - `frontend/` React (CDN) UI
 - `scripts/` data prep and baseline forecast
 - `data/` raw + processed CSVs
-- `notebooks/` Colab instructions
 - `models/` optional model artifacts
