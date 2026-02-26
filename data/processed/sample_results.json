@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "product_id": "1_1",
+      "product_name": "Store 1 Item 1",
+      "inventory": 42,
+      "avg7": 12.4,
+      "avg14": 9.8,
+      "forecastNext7": 91.2,
+      "riskType": "Stockout Risk",
+      "riskScore": 83,
+      "explanation": "Stockout risk because sales are accelerating, inventory is tight (42 units), and 7-day demand (91) is above remaining stock. A recent sales spike increases short-term demand.",
+      "demandSpike": true,
+      "trend": [
+        {"date": "2017-12-01", "sales": 8},
+        {"date": "2017-12-02", "sales": 10},
+        {"date": "2017-12-03", "sales": 13},
+        {"date": "2017-12-04", "sales": 14},
+        {"date": "2017-12-05", "sales": 16}
+      ]
+    },
+    {
+      "product_id": "2_3",
+      "product_name": "Store 2 Item 3",
+      "inventory": 180,
+      "avg7": 0.6,
+      "avg14": 0.7,
+      "forecastNext7": 4.2,
+      "riskType": "Dead Inventory Risk",
+      "riskScore": 67,
+      "explanation": "Dead inventory risk because inventory is high (180 units), sales are stagnant (~0.6/day), and no demand spike is expected.",
+      "demandSpike": false,
+      "trend": [
+        {"date": "2017-12-01", "sales": 1},
+        {"date": "2017-12-02", "sales": 0},
+        {"date": "2017-12-03", "sales": 1},
+        {"date": "2017-12-04", "sales": 0},
+        {"date": "2017-12-05", "sales": 1}
+      ]
+    }
+  ]
+}

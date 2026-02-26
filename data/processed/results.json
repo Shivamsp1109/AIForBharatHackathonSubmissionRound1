@@ -1,0 +1,7054 @@
+{
+  "products": [
+    {
+      "product_id": "10_13",
+      "product_name": "Store 10 Item 13",
+      "inventory": 403,
+      "avg7": 80.71,
+      "avg14": 81.21,
+      "forecastNext7": 586.28,
+      "daysOfCover": 4.99,
+      "daysOfCoverLabel": "4.99",
+      "sellThrough30d": 6.0596,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 25,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 98.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_15",
+      "product_name": "Store 10 Item 15",
+      "inventory": 411,
+      "avg7": 83.29,
+      "avg14": 82.86,
+      "forecastNext7": 608.95,
+      "daysOfCover": 4.93,
+      "daysOfCoverLabel": "4.93",
+      "sellThrough30d": 6.2433,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 26,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 118.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 89.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_18",
+      "product_name": "Store 10 Item 18",
+      "inventory": 1411,
+      "avg7": 78.29,
+      "avg14": 79.36,
+      "forecastNext7": 582.23,
+      "daysOfCover": 18.02,
+      "daysOfCoverLabel": "18.02",
+      "sellThrough30d": 1.7293,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 98.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_22",
+      "product_name": "Store 10 Item 22",
+      "inventory": 1301,
+      "avg7": 77.71,
+      "avg14": 76.79,
+      "forecastNext7": 566.72,
+      "daysOfCover": 16.74,
+      "daysOfCoverLabel": "16.74",
+      "sellThrough30d": 1.8355,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 89.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_25",
+      "product_name": "Store 10 Item 25",
+      "inventory": 100000,
+      "avg7": 75.71,
+      "avg14": 75.71,
+      "forecastNext7": 551.95,
+      "daysOfCover": 1320.75,
+      "daysOfCoverLabel": "1320.75",
+      "sellThrough30d": 0.0228,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 75,
+      "riskType": "High Dead Inventory Risk",
+      "riskScore": 75,
+      "riskReason": "Low sell-through",
+      "explanation": "Dead inventory risk: 30-day sell-through is 2.3%.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 46.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 97.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_28",
+      "product_name": "Store 10 Item 28",
+      "inventory": 1387,
+      "avg7": 86.29,
+      "avg14": 83.21,
+      "forecastNext7": 614.26,
+      "daysOfCover": 16.07,
+      "daysOfCoverLabel": "16.07",
+      "sellThrough30d": 1.8443,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 97.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_38",
+      "product_name": "Store 10 Item 38",
+      "inventory": 1297,
+      "avg7": 78.57,
+      "avg14": 79.14,
+      "forecastNext7": 573.35,
+      "daysOfCover": 16.51,
+      "daysOfCoverLabel": "16.51",
+      "sellThrough30d": 1.8558,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 54.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 94.0
+        }
+      ]
+    },
+    {
+      "product_id": "10_45",
+      "product_name": "Store 10 Item 45",
+      "inventory": 1273,
+      "avg7": 76.0,
+      "avg14": 76.29,
+      "forecastNext7": 550.8,
+      "daysOfCover": 16.75,
+      "daysOfCoverLabel": "16.75",
+      "sellThrough30d": 1.8138,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 55.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 89.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_10",
+      "product_name": "Store 2 Item 10",
+      "inventory": 1364,
+      "avg7": 77.86,
+      "avg14": 78.71,
+      "forecastNext7": 583.26,
+      "daysOfCover": 17.52,
+      "daysOfCoverLabel": "17.52",
+      "sellThrough30d": 1.7984,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 52.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 116.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_11",
+      "product_name": "Store 2 Item 11",
+      "inventory": 1295,
+      "avg7": 77.29,
+      "avg14": 75.57,
+      "forecastNext7": 562.36,
+      "daysOfCover": 16.76,
+      "daysOfCoverLabel": "16.76",
+      "sellThrough30d": 1.8,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 52.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 49.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 110.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_12",
+      "product_name": "Store 2 Item 12",
+      "inventory": 1222,
+      "avg7": 76.29,
+      "avg14": 76.64,
+      "forecastNext7": 554.13,
+      "daysOfCover": 16.02,
+      "daysOfCoverLabel": "16.02",
+      "sellThrough30d": 1.8519,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 51.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 83.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_13",
+      "product_name": "Store 2 Item 13",
+      "inventory": 1534,
+      "avg7": 93.14,
+      "avg14": 91.36,
+      "forecastNext7": 669.49,
+      "daysOfCover": 16.47,
+      "daysOfCoverLabel": "16.47",
+      "sellThrough30d": 1.8018,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 121.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 119.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 110.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_15",
+      "product_name": "Store 2 Item 15",
+      "inventory": 1675,
+      "avg7": 95.29,
+      "avg14": 96.64,
+      "forecastNext7": 696.72,
+      "daysOfCover": 17.58,
+      "daysOfCoverLabel": "17.58",
+      "sellThrough30d": 1.7301,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 115.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 117.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 106.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_18",
+      "product_name": "Store 2 Item 18",
+      "inventory": 1538,
+      "avg7": 88.29,
+      "avg14": 92.71,
+      "forecastNext7": 655.47,
+      "daysOfCover": 17.42,
+      "daysOfCoverLabel": "17.42",
+      "sellThrough30d": 1.8108,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 119.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 86.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_22",
+      "product_name": "Store 2 Item 22",
+      "inventory": 1527,
+      "avg7": 87.14,
+      "avg14": 85.57,
+      "forecastNext7": 647.94,
+      "daysOfCover": 17.52,
+      "daysOfCoverLabel": "17.52",
+      "sellThrough30d": 1.7557,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 117.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 121.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 115.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 129.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_25",
+      "product_name": "Store 2 Item 25",
+      "inventory": 1425,
+      "avg7": 93.29,
+      "avg14": 90.5,
+      "forecastNext7": 664.84,
+      "daysOfCover": 15.28,
+      "daysOfCoverLabel": "15.28",
+      "sellThrough30d": 1.8709,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 128.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_28",
+      "product_name": "Store 2 Item 28",
+      "inventory": 1568,
+      "avg7": 98.14,
+      "avg14": 95.29,
+      "forecastNext7": 700.24,
+      "daysOfCover": 15.98,
+      "daysOfCoverLabel": "15.98",
+      "sellThrough30d": 1.8278,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 123.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 118.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 120.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 104.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_29",
+      "product_name": "Store 2 Item 29",
+      "inventory": 1252,
+      "avg7": 74.86,
+      "avg14": 76.14,
+      "forecastNext7": 552.85,
+      "daysOfCover": 16.73,
+      "daysOfCoverLabel": "16.73",
+      "sellThrough30d": 1.8227,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 48.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 49.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 97.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_33",
+      "product_name": "Store 2 Item 33",
+      "inventory": 1292,
+      "avg7": 71.29,
+      "avg14": 74.29,
+      "forecastNext7": 531.95,
+      "daysOfCover": 18.12,
+      "daysOfCoverLabel": "18.12",
+      "sellThrough30d": 1.7577,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 83.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_36",
+      "product_name": "Store 2 Item 36",
+      "inventory": 1379,
+      "avg7": 88.14,
+      "avg14": 90.57,
+      "forecastNext7": 635.09,
+      "daysOfCover": 15.65,
+      "daysOfCoverLabel": "15.65",
+      "sellThrough30d": 1.8455,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 105.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_38",
+      "product_name": "Store 2 Item 38",
+      "inventory": 1485,
+      "avg7": 91.43,
+      "avg14": 91.64,
+      "forecastNext7": 663.36,
+      "daysOfCover": 16.24,
+      "daysOfCoverLabel": "16.24",
+      "sellThrough30d": 1.8128,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 120.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 120.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_45",
+      "product_name": "Store 2 Item 45",
+      "inventory": 1507,
+      "avg7": 95.86,
+      "avg14": 92.43,
+      "forecastNext7": 676.74,
+      "daysOfCover": 15.72,
+      "daysOfCoverLabel": "15.72",
+      "sellThrough30d": 1.852,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 115.0
+        }
+      ]
+    },
+    {
+      "product_id": "2_8",
+      "product_name": "Store 2 Item 8",
+      "inventory": 1451,
+      "avg7": 92.0,
+      "avg14": 88.36,
+      "forecastNext7": 654.79,
+      "daysOfCover": 15.77,
+      "daysOfCoverLabel": "15.77",
+      "sellThrough30d": 1.7884,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 49.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 124.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_13",
+      "product_name": "Store 3 Item 13",
+      "inventory": 1442,
+      "avg7": 86.57,
+      "avg14": 85.57,
+      "forecastNext7": 617.29,
+      "daysOfCover": 16.66,
+      "daysOfCoverLabel": "16.66",
+      "sellThrough30d": 1.7705,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 54.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 98.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_15",
+      "product_name": "Store 3 Item 15",
+      "inventory": 1385,
+      "avg7": 83.29,
+      "avg14": 84.21,
+      "forecastNext7": 611.87,
+      "daysOfCover": 16.63,
+      "daysOfCoverLabel": "16.63",
+      "sellThrough30d": 1.8563,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 104.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_18",
+      "product_name": "Store 3 Item 18",
+      "inventory": 1405,
+      "avg7": 84.71,
+      "avg14": 80.5,
+      "forecastNext7": 599.38,
+      "daysOfCover": 16.59,
+      "daysOfCoverLabel": "16.59",
+      "sellThrough30d": 1.7381,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 106.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_22",
+      "product_name": "Store 3 Item 22",
+      "inventory": 1268,
+      "avg7": 75.43,
+      "avg14": 75.29,
+      "forecastNext7": 555.22,
+      "daysOfCover": 16.81,
+      "daysOfCoverLabel": "16.81",
+      "sellThrough30d": 1.8226,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 96.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_25",
+      "product_name": "Store 3 Item 25",
+      "inventory": 1279,
+      "avg7": 80.0,
+      "avg14": 80.0,
+      "forecastNext7": 577.65,
+      "daysOfCover": 15.99,
+      "daysOfCoverLabel": "15.99",
+      "sellThrough30d": 1.896,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 54.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 87.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_28",
+      "product_name": "Store 3 Item 28",
+      "inventory": 1501,
+      "avg7": 80.86,
+      "avg14": 81.57,
+      "forecastNext7": 593.94,
+      "daysOfCover": 18.56,
+      "daysOfCoverLabel": "18.56",
+      "sellThrough30d": 1.6636,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 117.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 92.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_38",
+      "product_name": "Store 3 Item 38",
+      "inventory": 1351,
+      "avg7": 76.0,
+      "avg14": 78.71,
+      "forecastNext7": 568.67,
+      "daysOfCover": 17.78,
+      "daysOfCoverLabel": "17.78",
+      "sellThrough30d": 1.7476,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 49.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 99.0
+        }
+      ]
+    },
+    {
+      "product_id": "3_45",
+      "product_name": "Store 3 Item 45",
+      "inventory": 1258,
+      "avg7": 85.29,
+      "avg14": 80.79,
+      "forecastNext7": 597.64,
+      "daysOfCover": 14.75,
+      "daysOfCoverLabel": "14.75",
+      "sellThrough30d": 1.876,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 103.0
+        }
+      ]
+    },
+    {
+      "product_id": "4_13",
+      "product_name": "Store 4 Item 13",
+      "inventory": 1268,
+      "avg7": 84.29,
+      "avg14": 78.71,
+      "forecastNext7": 581.71,
+      "daysOfCover": 15.04,
+      "daysOfCoverLabel": "15.04",
+      "sellThrough30d": 1.8438,
+      "demandTrend": "Stable",
+      "demandSpike": true,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 113.0
+        }
+      ]
+    },
+    {
+      "product_id": "4_15",
+      "product_name": "Store 4 Item 15",
+      "inventory": 1369,
+      "avg7": 79.14,
+      "avg14": 78.14,
+      "forecastNext7": 583.09,
+      "daysOfCover": 17.3,
+      "daysOfCoverLabel": "17.30",
+      "sellThrough30d": 1.7809,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 100.0
+        }
+      ]
+    },
+    {
+      "product_id": "4_18",
+      "product_name": "Store 4 Item 18",
+      "inventory": 1324,
+      "avg7": 77.14,
+      "avg14": 73.57,
+      "forecastNext7": 543.77,
+      "daysOfCover": 17.16,
+      "daysOfCoverLabel": "17.16",
+      "sellThrough30d": 1.6918,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 85.0
+        }
+      ]
+    },
+    {
+      "product_id": "4_28",
+      "product_name": "Store 4 Item 28",
+      "inventory": 1292,
+      "avg7": 78.14,
+      "avg14": 78.71,
+      "forecastNext7": 575.19,
+      "daysOfCover": 16.53,
+      "daysOfCoverLabel": "16.53",
+      "sellThrough30d": 1.846,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 51.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 46.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 104.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_10",
+      "product_name": "Store 8 Item 10",
+      "inventory": 1288,
+      "avg7": 73.57,
+      "avg14": 74.79,
+      "forecastNext7": 542.43,
+      "daysOfCover": 17.51,
+      "daysOfCoverLabel": "17.51",
+      "sellThrough30d": 1.7648,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 52.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 87.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_13",
+      "product_name": "Store 8 Item 13",
+      "inventory": 1495,
+      "avg7": 86.71,
+      "avg14": 88.43,
+      "forecastNext7": 630.78,
+      "daysOfCover": 17.24,
+      "daysOfCoverLabel": "17.24",
+      "sellThrough30d": 1.7639,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 52.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 115.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 83.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_15",
+      "product_name": "Store 8 Item 15",
+      "inventory": 1534,
+      "avg7": 90.71,
+      "avg14": 90.5,
+      "forecastNext7": 658.31,
+      "daysOfCover": 16.91,
+      "daysOfCoverLabel": "16.91",
+      "sellThrough30d": 1.8012,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 119.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 123.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 119.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 105.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_18",
+      "product_name": "Store 8 Item 18",
+      "inventory": 1494,
+      "avg7": 81.14,
+      "avg14": 85.57,
+      "forecastNext7": 626.6,
+      "daysOfCover": 18.41,
+      "daysOfCoverLabel": "18.41",
+      "sellThrough30d": 1.7396,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 117.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 117.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_22",
+      "product_name": "Store 8 Item 22",
+      "inventory": 1379,
+      "avg7": 79.43,
+      "avg14": 82.64,
+      "forecastNext7": 590.43,
+      "daysOfCover": 17.36,
+      "daysOfCoverLabel": "17.36",
+      "sellThrough30d": 1.8405,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 92.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_25",
+      "product_name": "Store 8 Item 25",
+      "inventory": 1433,
+      "avg7": 87.29,
+      "avg14": 84.5,
+      "forecastNext7": 622.05,
+      "daysOfCover": 16.42,
+      "daysOfCoverLabel": "16.42",
+      "sellThrough30d": 1.7341,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 112.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 104.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_28",
+      "product_name": "Store 8 Item 28",
+      "inventory": 1567,
+      "avg7": 88.57,
+      "avg14": 90.36,
+      "forecastNext7": 656.12,
+      "daysOfCover": 17.69,
+      "daysOfCoverLabel": "17.69",
+      "sellThrough30d": 1.7601,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 114.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 129.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 113.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 115.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 87.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_36",
+      "product_name": "Store 8 Item 36",
+      "inventory": 1399,
+      "avg7": 84.29,
+      "avg14": 85.43,
+      "forecastNext7": 609.69,
+      "daysOfCover": 16.6,
+      "daysOfCoverLabel": "16.60",
+      "sellThrough30d": 1.7906,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 99.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_38",
+      "product_name": "Store 8 Item 38",
+      "inventory": 1448,
+      "avg7": 83.29,
+      "avg14": 86.0,
+      "forecastNext7": 622.97,
+      "daysOfCover": 17.39,
+      "daysOfCoverLabel": "17.39",
+      "sellThrough30d": 1.828,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 109.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 101.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 111.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 108.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 97.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_45",
+      "product_name": "Store 8 Item 45",
+      "inventory": 1460,
+      "avg7": 83.29,
+      "avg14": 82.57,
+      "forecastNext7": 602.41,
+      "daysOfCover": 17.53,
+      "daysOfCoverLabel": "17.53",
+      "sellThrough30d": 1.6979,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 87.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 53.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 103.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 52.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 105.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 92.0
+        }
+      ]
+    },
+    {
+      "product_id": "8_8",
+      "product_name": "Store 8 Item 8",
+      "inventory": 1357,
+      "avg7": 76.0,
+      "avg14": 77.86,
+      "forecastNext7": 574.09,
+      "daysOfCover": 17.86,
+      "daysOfCoverLabel": "17.86",
+      "sellThrough30d": 1.7804,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 107.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 100.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 115.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 106.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 49.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 76.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 102.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 88.0
+        }
+      ]
+    },
+    {
+      "product_id": "9_13",
+      "product_name": "Store 9 Item 13",
+      "inventory": 1306,
+      "avg7": 73.43,
+      "avg14": 74.07,
+      "forecastNext7": 544.4,
+      "daysOfCover": 17.79,
+      "daysOfCoverLabel": "17.79",
+      "sellThrough30d": 1.7412,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 80.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 54.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 85.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 70.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 89.0
+        }
+      ]
+    },
+    {
+      "product_id": "9_15",
+      "product_name": "Store 9 Item 15",
+      "inventory": 1276,
+      "avg7": 71.43,
+      "avg14": 75.29,
+      "forecastNext7": 544.23,
+      "daysOfCover": 17.86,
+      "daysOfCoverLabel": "17.86",
+      "sellThrough30d": 1.8621,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 97.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 66.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 104.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 55.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 58.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 116.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 82.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 88.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 73.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 77.0
+        }
+      ]
+    },
+    {
+      "product_id": "9_18",
+      "product_name": "Store 9 Item 18",
+      "inventory": 1257,
+      "avg7": 71.29,
+      "avg14": 75.07,
+      "forecastNext7": 526.23,
+      "daysOfCover": 17.63,
+      "daysOfCoverLabel": "17.63",
+      "sellThrough30d": 1.7693,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 47.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 68.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 72.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 93.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 65.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 57.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 59.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 94.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 55.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 99.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 71.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 81.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 86.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 63.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 62.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 83.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 67.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 70.0
+        }
+      ]
+    },
+    {
+      "product_id": "9_28",
+      "product_name": "Store 9 Item 28",
+      "inventory": 1388,
+      "avg7": 79.57,
+      "avg14": 82.14,
+      "forecastNext7": 589.2,
+      "daysOfCover": 17.44,
+      "daysOfCoverLabel": "17.44",
+      "sellThrough30d": 1.732,
+      "demandTrend": "Stable",
+      "demandSpike": false,
+      "stockoutScore": 0,
+      "deadInventoryScore": 0,
+      "riskType": "No Risk",
+      "riskScore": 0,
+      "riskReason": "Stable inventory coverage",
+      "explanation": "No immediate risk detected based on recent sales and inventory.",
+      "trend": [
+        {
+          "date": "2017-12-02",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-03",
+          "sales": 90.0
+        },
+        {
+          "date": "2017-12-04",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-05",
+          "sales": 77.0
+        },
+        {
+          "date": "2017-12-06",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-07",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-08",
+          "sales": 69.0
+        },
+        {
+          "date": "2017-12-09",
+          "sales": 89.0
+        },
+        {
+          "date": "2017-12-10",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-11",
+          "sales": 61.0
+        },
+        {
+          "date": "2017-12-12",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-13",
+          "sales": 60.0
+        },
+        {
+          "date": "2017-12-14",
+          "sales": 75.0
+        },
+        {
+          "date": "2017-12-15",
+          "sales": 84.0
+        },
+        {
+          "date": "2017-12-16",
+          "sales": 92.0
+        },
+        {
+          "date": "2017-12-17",
+          "sales": 98.0
+        },
+        {
+          "date": "2017-12-18",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-19",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-20",
+          "sales": 74.0
+        },
+        {
+          "date": "2017-12-21",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-22",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-23",
+          "sales": 96.0
+        },
+        {
+          "date": "2017-12-24",
+          "sales": 110.0
+        },
+        {
+          "date": "2017-12-25",
+          "sales": 56.0
+        },
+        {
+          "date": "2017-12-26",
+          "sales": 79.0
+        },
+        {
+          "date": "2017-12-27",
+          "sales": 64.0
+        },
+        {
+          "date": "2017-12-28",
+          "sales": 78.0
+        },
+        {
+          "date": "2017-12-29",
+          "sales": 95.0
+        },
+        {
+          "date": "2017-12-30",
+          "sales": 91.0
+        },
+        {
+          "date": "2017-12-31",
+          "sales": 94.0
+        }
+      ]
+    }
+  ]
+}

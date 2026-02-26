@@ -1,0 +1,11 @@
+node_modules/
+.env
+.DS_Store
+__pycache__/
+*.pyc
+/data/online_retail.csv
+/data/train.csv
+/data/processed/*.csv
+.kiro/
+.vscode/
+*.pdf
