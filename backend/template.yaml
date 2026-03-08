@@ -1,0 +1,76 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: Inventory Risk Intelligence API (Lambda + Bedrock + S3)
+
+Parameters:
+  S3BucketName:
+    Type: String
+    Description: Bucket for uploads/results
+  BedrockEnabled:
+    Type: String
+    Default: "true"
+  BedrockModelId:
+    Type: String
+    Default: anthropic.claude-3-haiku-20240307-v1:0
+
+Resources:
+  InventoryApi:
+    Type: AWS::Serverless::HttpApi
+    Properties:
+      StageName: prod
+      CorsConfiguration:
+        AllowOrigins:
+          - "*"
+        AllowMethods:
+          - GET
+          - POST
+          - OPTIONS
+        AllowHeaders:
+          - content-type
+
+  InventoryFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: nodejs20.x
+      Handler: lambda/index.handler
+      CodeUri: .
+      Timeout: 30
+      MemorySize: 512
+      Environment:
+        Variables:
+          ENABLE_BEDROCK: !Ref BedrockEnabled
+          BEDROCK_MODEL_ID: !Ref BedrockModelId
+          S3_BUCKET: !Ref S3BucketName
+      Policies:
+        - Statement:
+            - Effect: Allow
+              Action:
+                - bedrock:InvokeModel
+              Resource: "*"
+            - Effect: Allow
+              Action:
+                - s3:PutObject
+              Resource: !Sub arn:aws:s3:::${S3BucketName}/*
+      Events:
+        Products:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref InventoryApi
+            Path: /api/v1/products
+            Method: GET
+        Upload:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref InventoryApi
+            Path: /api/v1/upload
+            Method: POST
+        Reload:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref InventoryApi
+            Path: /api/v1/reload
+            Method: POST
+
+Outputs:
+  ApiUrl:
+    Value: !Sub https://${InventoryApi}.execute-api.${AWS::Region}.amazonaws.com/prod

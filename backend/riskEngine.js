@@ -19,6 +19,8 @@ function clamp(value, min, max) {
   return Math.max(min, Math.min(max, value));
 }
 
+const DEFAULT_UNIT_PRICE = Number(process.env.DEFAULT_UNIT_PRICE || 500);
+
 function applyDemoInventory(productId, inventory, demoMode) {
   if (!demoMode) return inventory;
   if (productId === "10_13" || productId === "10_15") return Math.floor(inventory * 0.3);
@@ -92,6 +94,26 @@ function computeRiskForProduct(productId, rows, inventory, forecastNext7, demoMo
   if (avg14 > 0 && avg7 < avg14 * 0.9) demandTrend = "Falling";
   if (avg14 === 0 && avg7 === 0) demandTrend = "Flat";
 
+  const price = DEFAULT_UNIT_PRICE;
+  let estimatedLostRevenue = 0;
+  let workingCapitalBlocked = 0;
+  let reorderQty = 0;
+  let suggestedMarkdown = 0;
+  if (riskType.includes("Stockout")) {
+    const stockoutProbability = riskScore / 100;
+    const projectedShortfallDays = Number.isFinite(daysOfCoverRaw) ? Math.max(7 - daysOfCoverRaw, 0) : 0;
+    estimatedLostRevenue = Math.round(projectedShortfallDays * avg7 * price * stockoutProbability);
+    reorderQty = Math.max(Math.round(avg7 * 14 - adjustedInventory), 0);
+  }
+  if (riskType.includes("Dead")) {
+    workingCapitalBlocked = Math.round(adjustedInventory * price * 0.7);
+    suggestedMarkdown = sellThrough30d < 0.05 ? 30 : 15;
+  }
+  const priorityScore = Math.min(
+    Math.round(riskScore * Math.max(estimatedLostRevenue || workingCapitalBlocked || 1, 1)),
+    100000000
+  );
+
   return {
     product_id: productId,
     inventory: adjustedInventory,
@@ -109,6 +131,13 @@ function computeRiskForProduct(productId, rows, inventory, forecastNext7, demoMo
     riskScore,
     riskReason,
     explanation,
+    unitPrice: price,
+    estimatedLostRevenue,
+    workingCapitalBlocked,
+    priorityScore,
+    forecastConfidence: "Baseline ARIMA model used. Further tuning required.",
+    reorderQty,
+    suggestedMarkdown,
   };
 }
 

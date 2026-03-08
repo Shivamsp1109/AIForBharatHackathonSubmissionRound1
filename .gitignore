@@ -9,3 +9,7 @@ __pycache__/
 .kiro/
 .vscode/
 *.pdf
+backend/.aws-sam/
+backend/*-test.json
+backend/*-out.json
+backend/upload-response.json

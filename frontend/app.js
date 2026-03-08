@@ -1,4 +1,5 @@
 const h = React.createElement;
+const API_BASE = "https://jwlju30m9c.execute-api.us-east-1.amazonaws.com/prod";
 
 function pct(v) {
   if (v === null || v === undefined) return "-";
@@ -9,6 +10,10 @@ function cover(v, label) {
   if (label) return label;
   if (v === null || v === undefined) return "Infinity";
   return String(v);
+}
+
+function money(v) {
+  return `INR ${Number(v || 0).toLocaleString("en-IN")}`;
 }
 
 function drawLineChart(canvas, series) {
@@ -49,9 +54,24 @@ function drawLineChart(canvas, series) {
   ctx.fillText(series[series.length - 1].date, width - 80, height - 6);
 }
 
+function fileToBase64(file) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const dataUrl = reader.result || "";
+      const parts = String(dataUrl).split(",");
+      resolve(parts.length > 1 ? parts[1] : "");
+    };
+    reader.onerror = () => reject(new Error("Failed to read file"));
+    reader.readAsDataURL(file);
+  });
+}
+
 function App() {
   const [products, setProducts] = React.useState([]);
   const [selected, setSelected] = React.useState(null);
+  const [summary, setSummary] = React.useState(null);
+  const [executiveSummary, setExecutiveSummary] = React.useState([]);
   const [mode, setMode] = React.useState("normal");
   const [uploading, setUploading] = React.useState(false);
   const [uploadMessage, setUploadMessage] = React.useState("");
@@ -59,10 +79,12 @@ function App() {
   const fileRef = React.useRef(null);
 
   React.useEffect(() => {
-    fetch("/api/v1/products")
+    fetch(`${API_BASE}/api/v1/products`)
       .then((res) => res.json())
       .then((data) => {
         setProducts(data.products || []);
+        setSummary(data.summary || null);
+        setExecutiveSummary(data.executiveSummary || []);
         if (data.products && data.products.length) {
           setSelected(data.products[0]);
         }
@@ -85,14 +107,14 @@ function App() {
     setUploading(true);
     setUploadMessage("");
 
-    const form = new FormData();
-    form.append("file", file);
-    form.append("mode", mode);
-
-    fetch("/api/v1/upload", {
-      method: "POST",
-      body: form,
-    })
+    fileToBase64(file)
+      .then((csvBase64) =>
+        fetch(`${API_BASE}/api/v1/upload`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ mode, csvBase64 }),
+        })
+      )
       .then((res) => res.json())
       .then((data) => {
         if (data.error) {
@@ -100,6 +122,8 @@ function App() {
           return;
         }
         setProducts(data.products || []);
+        setSummary(data.summary || null);
+        setExecutiveSummary(data.executiveSummary || []);
         if (data.products && data.products.length) {
           setSelected(data.products[0]);
         }
@@ -172,6 +196,29 @@ function App() {
       ),
       h("div", null, h("span", { className: "badge none" }, "Demo"))
     ),
+    summary
+      ? h(
+          "div",
+          { className: "summary-strip" },
+          h("div", { className: "summary-card" }, h("div", { className: "label" }, "Total SKUs"), h("div", { className: "value" }, String(summary.totalProducts || 0))),
+          h("div", { className: "summary-card" }, h("div", { className: "label" }, "High Risk SKUs"), h("div", { className: "value" }, String(summary.highRiskCount || 0))),
+          h("div", { className: "summary-card" }, h("div", { className: "label" }, "Revenue at Risk"), h("div", { className: "value" }, money(summary.totalRevenueAtRisk))),
+          h("div", { className: "summary-card" }, h("div", { className: "label" }, "Capital Blocked"), h("div", { className: "value" }, money(summary.totalCapitalBlocked)))
+        )
+      : null,
+    executiveSummary && executiveSummary.length
+      ? h(
+          "div",
+          { className: "executive-box" },
+          h("h3", null, "Executive Summary"),
+          h(
+            "ul",
+            { className: "executive-list" },
+            executiveSummary.map((item, idx) => h("li", { key: idx }, item))
+          ),
+          h("p", { className: "assumption-text" }, "Assumptions: Unit price assumed at INR 500 unless configured via environment variable.")
+        )
+      : null,
     h(
       "div",
       { className: "container" },
@@ -225,9 +272,14 @@ function App() {
                 "div",
                 { className: "reason-box" },
                 h("div", { className: "reason-row" }, `Risk Type: ${selected.riskType === "No Risk" ? "Inventory Healthy" : selected.riskType}`),
+                h("div", { className: "reason-row" }, `Urgency: ${selected.urgencyLevel || "Low"}`),
                 h("div", { className: "reason-row" }, `Reason: ${selected.riskReason || "-"}`),
                 h("div", { className: "reason-row" }, `Metrics Used: Days of Cover, Sell-through, Demand Spike`),
-                h("div", { className: "reason-row" }, `Recommended Action: ${selected.riskType.includes("Stockout") ? "Replenish soon and monitor demand." : selected.riskType.includes("Dead") ? "Reduce replenishment and plan markdowns." : "Maintain current inventory policy."}`)
+                h(
+                  "div",
+                  { className: "reason-row" },
+                  `Recommended Action: ${selected.recommendedAction || (selected.riskType.includes("Stockout") ? "Replenish soon and monitor demand." : selected.riskType.includes("Dead") ? "Reduce replenishment and plan markdowns." : "Maintain current inventory policy.")}`
+                )
               ),
               h("p", { className: "explanation" }, selected.explanation),
               h("canvas", { className: "chart", ref: canvasRef, width: 520, height: 220 }),
@@ -239,7 +291,11 @@ function App() {
                 h("div", { className: "metric" }, h("div", { className: "label" }, "Days of Cover"), h("div", { className: "value" }, cover(selected.daysOfCover, selected.daysOfCoverLabel))),
                 h("div", { className: "metric" }, h("div", { className: "label" }, "Sell-through 30d"), h("div", { className: "value" }, pct(selected.sellThrough30d))),
                 h("div", { className: "metric" }, h("div", { className: "label" }, "Demand Trend"), h("div", { className: "value" }, selected.demandTrend || "-")),
-                h("div", { className: "metric" }, h("div", { className: "label" }, "Demand Spike"), h("div", { className: "value" }, selected.demandSpike ? "Yes" : "No"))
+                h("div", { className: "metric" }, h("div", { className: "label" }, "Demand Spike"), h("div", { className: "value" }, selected.demandSpike ? "Yes" : "No")),
+                h("div", { className: "metric" }, h("div", { className: "label" }, "Revenue at Risk"), h("div", { className: "value" }, money(selected.estimatedLostRevenue))),
+                h("div", { className: "metric" }, h("div", { className: "label" }, "Working Capital Locked"), h("div", { className: "value" }, money(selected.workingCapitalBlocked))),
+                h("div", { className: "metric" }, h("div", { className: "label" }, "Priority Score"), h("div", { className: "value" }, `${selected.priorityScore || 0}`)),
+                h("div", { className: "metric" }, h("div", { className: "label" }, "Forecast Confidence"), h("div", { className: "value" }, selected.forecastConfidence || "-"))
               )
             )
           : h("p", null, "Select a product to view details.")
